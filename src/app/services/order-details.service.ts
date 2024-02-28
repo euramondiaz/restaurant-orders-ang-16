@@ -12,9 +12,9 @@ export class OrderDetailsService {
   foodDetails = [
     {
       id:1,
-      foodName:"Paneer Grilled Sandwich",
-      foodDetails:"Pan-fried masala paneer.",
-      foodPrice:200,
+      foodName:"Pastel grelhado com queijo",
+      foodDetails:"Pan-fried masala paneer",
+      foodPrice:7,
       foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wzfq7djolqxgdhghebbq"
     },
     {
