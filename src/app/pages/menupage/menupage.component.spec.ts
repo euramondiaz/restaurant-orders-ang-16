@@ -6,10 +6,14 @@ describe('MenupageComponent', () => {
   let component: MenupageComponent;
   let fixture: ComponentFixture<MenupageComponent>;
 
+  beforeEach(async () => {
+    await TestBed.configureTestingModule({
+      declarations: [ MenupageComponent ]
+    })
+    .compileComponents();
+  });
+
   beforeEach(() => {
-    TestBed.configureTestingModule({
-      declarations: [MenupageComponent]
-    });
     fixture = TestBed.createComponent(MenupageComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
