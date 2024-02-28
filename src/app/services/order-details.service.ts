@@ -12,45 +12,45 @@ export class OrderDetailsService {
   foodDetails = [
     {
       id:1,
-      foodName:"Pastel grelhado com queijo",
-      foodDetails:"Pan-fried masala paneer",
-      foodPrice:7,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wzfq7djolqxgdhghebbq"
+      foodName:"Hamburguer de picanha",
+      foodDetails:"Pão, salada, queijo, carne e molho",
+      foodPrice:25,
+      foodImg:"https://churrasco.coz.br/wp-content/uploads/2021/01/hamburguer-na-churrasqueira.jpg"
     },
     {
       id:2,
-      foodName:"Veggie Supreme",
-      foodDetails:"Onion| Green Capsicum|Mushroom |black olives , sweet corn , Red Paprika topped with Cheese",
-      foodPrice:30,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/sgbobtbxlojbtdnr2m5k"
+      foodName:"Pizza da casa",
+      foodDetails:"vegetais, quatro queijos, frango.",
+      foodPrice:34,
+      foodImg:"https://cdn.deliway.com.br/blog/base/92a/f9d/574/pizza-de-alcachofra.jpg"
     },
     {
       id:3,
-      foodName:"Paneer Burger",
-      foodDetails:"panner",
-      foodPrice:20,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/xbeqlsck3p0kei53to7k"
+      foodName:"Coxinha gourmet",
+      foodDetails:"Frango com queijo",
+      foodPrice:11,
+      foodImg:"https://media.gazetadopovo.com.br/2019/11/12173310/Texto-3-.-coxinha-pelanda.jpeg"
     },
     {
       id:4,
-      foodName:"Veg Masala Roll In Naan",
-      foodDetails:"A homely mix of mashed potato and veggies, seasoned with Indian spices. A filling sure to take you back to mom's kitchen.",
-      foodPrice:15,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/l2ng6gtge30sqaafqng7"
+      foodName:"Rocanbole doce",
+      foodDetails:"massa com leite, recheio de nutela",
+      foodPrice:23,
+      foodImg:"https://www.receitasnestle.com.br/sites/default/files/srh_recipes/c390f7572db6774bd6b3134580c7ea27.jpg"
     },
     {
       id:5,
-      foodName:"Indulgence Brownie",
-      foodDetails:"(Eggless) Indulge in richly decadent chocolate brownie crafted with love & topped with bitter-sweet chocolate that provides ultra-rich chocolate experience.",
+      foodName:"Bolo festa",
+      foodDetails:"Chocolate, Recheio de creme de leite",
       foodPrice:10,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/iqlmbg1hlyc0dspdyzzv"
+      foodImg:"https://imagem.band.com.br/12/f_324312.jpg"
     },
     {
       id:6,
-      foodName:"Oreo Cheesecake Ice Cream 300g",
-      foodDetails:"Oreo ice cream",
+      foodName:"Sobremesa",
+      foodDetails:"frutas com calda de chocolate",
       foodPrice:22,
-      foodImg:"https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wtj8esaeslvlscv8glj6"
+      foodImg:"https://img.freepik.com/fotos-premium/sobremesa-gourmet_777078-16467.jpg"
     }
   ]
 
