@@ -4,17 +4,18 @@
     height: 600px;
     background-position: center top;
     background-size: cover;
+
 }
 .content
 {
-    top: 30%;
-    left: 20%;
+    top: 28%;
+    left: 14%;
     position: absolute;
 }
 .content h1
 {
-    color: #fff;
-    font-size: 60px;
+    color: #black ;
+    font-size: 80px;
     font-weight: bold;
 
 }
@@ -69,11 +70,12 @@
     width: 100%;
     height: 250px;
     object-fit: cover;
-    border-radius: 5px;
+
+    border-radius: 60px;
 }
 .foodbox h1
 {
-    font-size: 18px;
+    font-size: 28px;
     margin-top: 20px;
     font-weight: bold;
 }
@@ -93,5 +95,26 @@
     .banner
 {
     height: 700px;
+}
+}
+
+
+
+@media screen and (max-width:496px){
+  .content h1
+{
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    left: 15%;
+
+}
+{
+  background-color:red;
+  height: 200px;
+
+  background-size: contain;
+  height:auto;
+
 }
 }
