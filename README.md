@@ -34,4 +34,4 @@ Sinta-se à vontade para contribuir com este projeto! Se você encontrar problem
 
 ## Autor
 
-Este projeto foi desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+Este projeto foi desenvolvido por [RAMON DIAS](https://github.com/euramondiaz).
