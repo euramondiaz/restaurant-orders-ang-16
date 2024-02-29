@@ -1,5 +1,9 @@
 # Sistema de Delivery de Comida com Angular 16
 
+![image](src/assets/mockup.png)
+
+
+
 Este é um sistema de delivery de comida desenvolvido com Angular 16, permitindo aos usuários visualizar pratos disponíveis, fazer pedidos e entrar em contato com a empresa.
 
 ## Tecnologias Utilizadas
