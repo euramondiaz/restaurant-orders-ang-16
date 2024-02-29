@@ -8,7 +8,7 @@ Este é um sistema de delivery de comida desenvolvido com Angular 16, permitindo
 - **TypeScript:** Linguagem de programação fortemente tipada que compila para JavaScript, proporcionando segurança e legibilidade ao código.
 - **HTML e CSS:** Linguagens padrão para marcação e estilização de páginas web.
 - **Angular Material:** Conjunto de componentes e temas que seguem os princípios do Material Design, proporcionando uma interface de usuário consistente e agradável.
-- **Firebase (opcional):** Serviço de plataforma em nuvem que fornece recursos como banco de dados em tempo real, autenticação de usuários e hospedagem de aplicativos.
+
 
 ## Funcionalidades Principais
 
@@ -23,10 +23,6 @@ Este é um sistema de delivery de comida desenvolvido com Angular 16, permitindo
 3. **Instale as Dependências:** Navegue até o diretório do projeto e execute `npm install` para instalar todas as dependências.
 4. **Inicie o Servidor de Desenvolvimento:** Execute `ng serve` para iniciar o servidor de desenvolvimento. Navegue para `http://localhost:4200/` em seu navegador para visualizar o projeto.
 
-## Estrutura do Projeto
-
-- **`src/app/components`:** Este diretório contém todos os componentes da aplicação, incluindo `contact`, `home`, `menu` e `menu-page`.
-- **`src/app/services`:** Aqui estão os serviços utilizados para gerenciar os dados da aplicação, como `order-details`.
 
 ## Contribuição
 
