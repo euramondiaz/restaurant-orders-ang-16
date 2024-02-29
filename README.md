@@ -19,7 +19,7 @@ Este é um sistema de delivery de comida desenvolvido com Angular 16, permitindo
 ## Como Executar o Projeto Localmente
 
 1. **Pré-requisitos:** Certifique-se de ter o Node.js e o Angular CLI instalados em sua máquina.
-2. **Clone o Repositório:** Execute `git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/euramondiaz/restaurant-orders-ang-16.git)` no seu terminal.
+2. **Clone o Repositório:** Execute `git clone https://github.com/euramondiaz/restaurant-orders-ang-16.git` no seu terminal.
 3. **Instale as Dependências:** Navegue até o diretório do projeto e execute `npm install` para instalar todas as dependências.
 4. **Inicie o Servidor de Desenvolvimento:** Execute `ng serve` para iniciar o servidor de desenvolvimento. Navegue para `http://localhost:4200/` em seu navegador para visualizar o projeto.
 
